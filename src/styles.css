@@ -30,3 +30,10 @@ img {
 .email-link {
   color: blue;
 }
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 8px;
+  display: block;
+  margin: 20px 0;
+}
